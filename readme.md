@@ -302,3 +302,21 @@ As a teenager, coding became more than just a hobby—it became a useful skill t
 The experience of learning to code as a teenager was incredibly rewarding on multiple levels. In an increasingly technology-driven society, proficiency in coding opens doors to a wide range of opportunities in different fields
 
 Overall, learning to code as a teenager was not just about acquiring a technical skill—it was about embarking on a journey of self-discovery and personal growth. It taught me the importance of perseverance, curiosity, and lifelong learning, shaping me into the individual I am today.
+
+## History
+
+### 0.Describe a historical period/moment you would like to learn more about
+
+![alt text](history1.jpg)
+
+![alt text](history2.jpg)
+
+#### intro
+When I saw this topic, the first dynasty that pops up in my mind is Tang dynasty in ancient China, which lasted about three hundred years ten centuries ago. To tell you more about it, it was one of the most prosperous dynasties in the five-thousand-year history of China. To be more specific, it can be described as the golden era of Chinese culture, regarding literature, economy and law, and it attracted an international reputation.
+
+#### what
+Speaking of what I know about it, well, there are mainly 2 things I wanna share with you. In terms of what I learned about the hundreds of years of prosperity, the well-known poet Li Bai portrays the period in his masterpieces. From his poems, you can imagine a glamorous picture of the wealth and fame of the Tang dynasty. Moving on to the area that I'd like to dig deeper about, it's the one and only female emperor of China, a woman caUed Wu Zetian. Something impressive about her is she furthered the renovation of law which promoted gender equality, allowing women into government and schools. Therefore, as a girl, I'm intrigued to discover more about women's rights during her administration.
+
+#### Why
+When it comes to why I would like to learn more about it, well, The Tang dynasty was a period of rise and flourishing that is very appealing to me. To conclude, learning more about Tang can be a challenging but rewarding process.
+Therefore, I'U try my best and make it an unforgettable experience.
